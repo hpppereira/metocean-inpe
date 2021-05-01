@@ -1,2 +1,6 @@
-# metocean-inpe
-Metocean data processing of buoys and numerical models - INPE
+# Metocean Data Processing - INPE
+
+- Spotter Buoy
+- BESM numerical model
+- Reanalysis
+- Model validation
